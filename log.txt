@@ -1,0 +1,4854 @@
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:41 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:22:42 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:27 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:27 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:26:38 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:39:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:39:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:40:32 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:36 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:47:37 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:19 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:19 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:30 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:49:31 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:21 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:21 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:28 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:29 pm
+Failed to insert data to table "customers".
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 11:56:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:30 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 03:56:30 pm
+Failed to insert data to table "customers".
+
+Time: Wednesday, 2019-04-10 12:01:08 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:01:08 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:01:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:01:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:01:24 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:01:24 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:01:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:01:24 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 04:01:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:01:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:01:24 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 12:14:44 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:14:44 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:14:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:14:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:14:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:14:50 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 04:14:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:14:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:14:50 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 12:15:44 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:15:44 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:15:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:15:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:16:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:16:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:16:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:16:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:16:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:16:09 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 04:16:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:16:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:16:09 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 12:28:29 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:28:30 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:31:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:31:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:31:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:31:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:32:03 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:32:03 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:32:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:32:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:32:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:32:09 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 04:32:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:32:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:32:09 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 12:32:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:32:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:41:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:41:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:41:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 12:41:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:41:12 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:41:12 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 04:41:12 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:41:12 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 04:41:12 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 01:05:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:05:19 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:05:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:05:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:05:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:05:28 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 05:05:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:05:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:05:28 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 01:06:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:06:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:06:20 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:06:20 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:06:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:06:20 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 05:06:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:06:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 05:06:20 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 02:18:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 02:18:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 06:18:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 06:18:37 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 06:18:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 06:18:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 06:18:37 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 04:38:21 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:38:21 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:38:21 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:38:21 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 08:38:21 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:38:21 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:38:21 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 04:46:00 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:46:00 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:49:08 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:49:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:50:00 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:50:00 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:50:15 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:50:15 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:50:46 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:50:46 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:50:46 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:50:47 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 08:50:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:50:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:50:47 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 04:54:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:54:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:55:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:55:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:55:23 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:55:23 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:55:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:55:23 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 08:55:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:55:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:55:24 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 04:56:37 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:56:37 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:56:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:56:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:56:57 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 04:56:57 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:56:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:56:57 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 08:56:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:56:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 08:56:57 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 05:01:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 05:01:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:01:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:01:35 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 09:01:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:01:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:01:36 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 05:06:38 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 05:06:38 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 05:06:49 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 05:06:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:06:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:06:50 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 09:06:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:06:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:06:50 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 05:09:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 05:09:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:09:40 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:09:40 pm
+Insert data to table "customers" successfully.
+
+Time: Tuesday, 2019-04-09 09:09:40 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:09:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-09 09:09:41 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 05:50:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 05:50:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:50:52 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:50:52 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 09:50:52 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:50:52 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:50:52 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 06:00:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:00:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:10 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:10 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 06:00:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:00:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:00:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:00:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:00:49 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:00:49 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:49 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:49 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:49 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:49 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:00:49 am
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 06:04:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:04:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:04:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:04:18 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:04:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:04:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:04:18 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 06:04:34 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:04:34 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:04:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:04:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:23:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:23:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:23:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:23:32 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:23:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:23:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:23:32 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 06:24:05 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:24:05 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:24:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:24:05 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:24:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:24:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:24:05 am
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 06:27:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:27:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:27:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:27:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:27:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:27:18 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:27:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:27:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:27:18 am
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 06:29:27 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:29:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:29:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:29:28 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:29:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:29:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:29:28 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 06:31:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:31:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:06 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:06 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 06:43:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 06:43:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:09:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:09:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:09:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:09:35 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 11:09:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:09:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:09:35 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 07:23:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:23:02 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:23:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:23:02 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 11:23:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:23:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:23:02 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 07:24:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:24:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:24:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:24:18 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 11:24:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:24:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:24:18 am
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 07:31:12 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:31:12 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:31:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:31:12 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 11:31:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:31:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:31:12 am
+Failed to insert data to table "customer_login".
+
+Time: Wednesday, 2019-04-10 07:33:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:33:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:33:16 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:33:16 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 11:33:16 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:33:16 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:33:16 am
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 07:35:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 07:35:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:35:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:35:13 am
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 11:35:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:35:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:35:13 am
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 09:18:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:18:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:18:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:18:52 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 01:18:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:18:52 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:18:52 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 09:21:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:21:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:21:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:21:10 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 01:21:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:21:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:21:10 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 09:28:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 09:28:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:28:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:28:53 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 01:28:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:28:54 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 01:28:54 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 10:58:51 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:58:51 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:59:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:59:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 02:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 02:59:59 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 02:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 02:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 02:59:59 pm
+Insert data to table "customer_login" successfully.
+
+Time: Wednesday, 2019-04-10 11:02:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:02:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:03:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 11:03:11 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 03:03:11 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 03:03:11 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 03:03:11 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 03:03:11 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 03:03:11 pm
+Insert data to table "customer_login" successfully.
+
+Time: Thursday, 2019-04-11 06:14:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:14:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:14:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:14:01 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:14:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:14:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:14:02 pm
+Insert data to table "customer_login" successfully.
+
+Time: Thursday, 2019-04-11 06:18:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:18:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:22:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:22:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:25:14 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:25:14 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:27:29 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:27:29 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:27:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:27:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:29:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:29:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:31:37 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:31:37 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:37 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:31:37 pm
+Insert data to table "customer_login" successfully.
+
+Time: Thursday, 2019-04-11 06:33:14 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:33:14 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:33:24 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:33:24 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:33:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:33:24 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:33:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:33:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:33:24 pm
+Insert data to table "customer_login" successfully.
+
+Time: Thursday, 2019-04-11 06:37:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 06:37:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:37:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:37:32 pm
+Insert data to table "customers" successfully.
+
+Time: Wednesday, 2019-04-10 10:37:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:37:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Wednesday, 2019-04-10 10:37:32 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 05:36:11 am
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 05:36:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:36:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:36:14 pm
+Insert data to table "customers" successfully.
+
+Time: Thursday, 2019-04-11 09:36:14 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:36:14 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:36:14 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 05:46:38 am
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 05:46:38 am
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 05:47:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 05:47:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:47:36 pm
+Insert data to table "customers" successfully.
+
+Time: Thursday, 2019-04-11 09:47:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:47:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 09:47:37 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 06:51:14 am
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 06:51:15 am
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 10:51:15 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 10:51:15 pm
+Insert data to table "customers" successfully.
+
+Time: Thursday, 2019-04-11 10:51:15 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 10:51:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Thursday, 2019-04-11 10:51:16 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 08:33:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:33:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:33:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:33:45 pm
+Insert data to table "customers" successfully.
+
+Time: Friday, 2019-04-12 12:33:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:33:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:33:45 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 08:34:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:34:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:34:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:34:45 pm
+Insert data to table "customers" successfully.
+
+Time: Friday, 2019-04-12 12:34:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:34:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:34:45 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 08:43:14 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:43:14 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:43:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:43:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:44:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:44:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:44:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:44:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:44:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:44:16 pm
+Insert data to table "customers" successfully.
+
+Time: Friday, 2019-04-12 12:44:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:44:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:44:16 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 08:46:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:23 pm
+Insert data to table "customers" successfully.
+
+Time: Friday, 2019-04-12 12:46:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:23 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 08:46:25 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:25 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:43 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:43 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:46:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:48 pm
+Insert data to table "customers" successfully.
+
+Time: Friday, 2019-04-12 12:46:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 12:46:48 pm
+Insert data to table "customer_login" successfully.
+
+Time: Friday, 2019-04-12 08:48:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:48:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:49:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:49:47 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:50:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Friday, 2019-04-12 08:50:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:57:00 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:57:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:13:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:13:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:13:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:13:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:18:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:18:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:25:15 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:25:15 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:26:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:26:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:27:05 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:27:05 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:29:19 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:29:19 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:33:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:33:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:34:58 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:34:58 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:43:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:43:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:44:55 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:44:55 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:47:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:47:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:49:46 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:49:46 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:49:58 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:49:58 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:50:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:50:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 03:50:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 03:50:06 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 03:50:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 03:50:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 03:50:07 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 12:02:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:02:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:02:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:02:26 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:02:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:02:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:02:26 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 12:04:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:04:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:05:23 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:05:23 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:05:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:05:23 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:05:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:05:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:05:23 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 12:07:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:07:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:07:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:07:01 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:07:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:07:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:07:01 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:08:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:08:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:09:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:09:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:09:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:09:07 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:09:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:09:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:09:07 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:09:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:09:50 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:01 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:10:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:01 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:10:39 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:39 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:49 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:49 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:57 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:10:57 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:57 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:10:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:10:57 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:13:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:13:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:13:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:13:07 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:13:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:13:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:13:07 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:13:46 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:13:46 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:13:51 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:13:51 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:14:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:14:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:15:38 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:15:38 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:15:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:15:38 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:15:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:15:38 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:15:38 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:16:19 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:16:19 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:16:29 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:16:29 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:23:55 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:23:55 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:25:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:25:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:25:51 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:25:51 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:26:34 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:26:34 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:26:41 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:26:41 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:26:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:26:41 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:26:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:26:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:26:41 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:27:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:27:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:27:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:27:45 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:27:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:27:46 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:27:46 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:31:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:31:01 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:31:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:31:01 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:31:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:31:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:31:01 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:38:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:38:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:38:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:38:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:38:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:38:26 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:38:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:38:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:38:26 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:47:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:47:40 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:47:40 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:47:40 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:47:40 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:47:40 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:47:41 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:49:48 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:49:48 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:49:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:49:48 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:49:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:49:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:49:48 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:51:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:51:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:51:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:51:37 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:51:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:51:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:51:37 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:52:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:52:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:52:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:52:45 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:52:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:52:46 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:52:46 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 12:57:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:57:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:57:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 12:57:45 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:57:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:57:45 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 04:57:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:57:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 04:57:45 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:02:52 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:02:52 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:03:00 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:03:00 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:03:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:03:09 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:09 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:03:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:09 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:09 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:03:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:03:35 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:35 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:03:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:03:35 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:08:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:08:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:06 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:08:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:06 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:08:22 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:08:22 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:22 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:23 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:08:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:23 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:08:23 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:08:58 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:08:58 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:09:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:09:05 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:09:05 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:09:05 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:09:05 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:09:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:09:06 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:10:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:10:28 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:10:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:10:28 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:10:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:10:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:10:28 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:11:39 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:11:39 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:11:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:11:39 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:11:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:11:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:11:39 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:13:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:13:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:13:20 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:13:20 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:13:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:13:20 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:13:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:13:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:13:20 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:15:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:15:17 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:15:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:15:17 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:15:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:15:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:15:18 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:25:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:25:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:25:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:25:18 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:25:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:25:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:25:18 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:26:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:26:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:26:02 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:26:02 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:26:02 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:26:02 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:26:02 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:28:27 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:28:27 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:28:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:28:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:28:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:28:36 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:28:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:28:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:28:36 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:29:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:29:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:29:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:29:18 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:29:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:29:18 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:29:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:29:19 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:29:19 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:30:47 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:30:47 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:30:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:30:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:30:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:30:56 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:30:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:30:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:30:56 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:33:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:33:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:07 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:33:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:07 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:33:44 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:33:44 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:44 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:33:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:33:44 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:34:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:34:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:34:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:34:36 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:34:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:34:37 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:34:37 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:35:24 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:35:24 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:35:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:35:24 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:35:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:35:24 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:35:24 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:36:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:36:07 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:36:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:36:36 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:36:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:36:36 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:36:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:36:36 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:36:36 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:38:41 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:38:41 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:38:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:38:41 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:38:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:38:41 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:38:41 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:39:59 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:39:59 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:39:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:39:59 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:39:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:39:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:39:59 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 01:44:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:44:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:45:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:45:04 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:45:04 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:45:04 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 05:45:04 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:45:04 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 05:45:04 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 02:16:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 02:16:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:15:15 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:15:15 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:15:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:15:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:15:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:15:26 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 09:15:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:15:26 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:15:26 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 05:20:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:20:11 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:20:11 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:20:16 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 09:20:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:20:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:20:16 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 05:31:41 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:31:41 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:54:31 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:54:31 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:54:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:54:32 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 09:54:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:54:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:54:32 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 05:59:59 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 05:59:59 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:59:59 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 09:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:59:59 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 09:59:59 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 06:05:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:05:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:05:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:05:13 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:05:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:05:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:05:13 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 06:07:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:07:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:07:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:07:13 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:07:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:07:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:07:13 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 06:08:48 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:08:48 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:08:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:08:48 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:08:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:08:48 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:08:48 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 06:16:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:16:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:16:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:16:10 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:16:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:16:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:16:10 pm
+Failed to insert data to table "customer_login".
+
+Time: Sunday, 2019-04-14 06:26:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:26:10 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:26:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:26:10 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:26:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:26:10 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:26:10 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 06:30:27 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:30:27 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:30:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:30:28 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:30:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:30:28 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:30:28 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 06:32:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:32:56 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:32:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:32:56 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:32:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:32:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:32:56 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 06:37:58 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:37:58 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:38:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:38:06 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:38:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:38:06 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 10:38:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:38:06 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 10:38:06 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 06:41:39 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 06:41:39 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 07:07:12 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 07:07:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 07:07:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 07:07:26 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 07:07:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 07:07:32 am
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:07:32 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:07:33 pm
+Insert data to table "customers" successfully.
+
+Time: Saturday, 2019-04-13 11:07:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:07:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Saturday, 2019-04-13 11:07:33 pm
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 09:16:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 09:16:02 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 09:16:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 09:16:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:16:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:16:13 am
+Insert data to table "customers" successfully.
+
+Time: Sunday, 2019-04-14 01:16:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:16:13 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:16:13 am
+Insert data to table "customer_login" successfully.
+
+Time: Sunday, 2019-04-14 09:23:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 09:23:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:23:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:23:43 am
+Insert data to table "customers" successfully.
+
+Time: Sunday, 2019-04-14 01:23:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:23:43 am
+Connect to DB "travelexperts" successfully.
+
+Time: Sunday, 2019-04-14 01:23:43 am
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:17:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:17:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:17:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:17:31 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:17:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:17:31 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:17:31 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:22:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:22:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:22:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:22:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:22:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:22:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:22:50 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:22:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:22:50 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:22:50 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:24:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:24:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:24:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:24:16 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:24:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:24:16 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:24:16 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:26:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:26:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:26:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:26:29 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:26:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:26:29 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:26:29 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:40:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:40:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:40:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:40:53 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:40:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:40:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:40:53 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:43:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:43:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:43:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:43:42 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:43:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:43:42 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:43:42 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:46:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:46:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:46:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:46:01 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:46:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:46:01 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:46:01 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:47:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:47:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:47:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:47:56 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:47:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:47:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:47:56 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:52:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:52:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:52:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:52:53 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:52:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:52:53 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:52:53 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:55:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:55:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:55:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:55:20 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:55:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:55:20 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:55:20 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:57:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:57:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:57:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:57:07 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:57:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:57:07 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:57:07 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 09:58:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 09:58:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:58:57 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:58:57 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 01:58:58 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:58:58 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 01:58:58 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:02:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:02:56 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:03:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:03:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:03:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:03:03 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:03:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:03:03 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:03:03 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:07:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:07:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:07:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:07:44 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:07:44 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:07:45 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:07:45 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:10:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:10:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:10:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:10:13 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:10:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:10:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:10:13 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:13:27 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:13:27 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:13:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:13:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:13:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:13:35 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:13:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:13:35 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:13:35 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:24:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:24:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:24:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:24:13 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:24:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:24:13 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:24:13 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:25:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:25:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:25:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:25:39 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:25:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:25:39 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:25:39 pm
+Insert data to table "customer_login" successfully.
+
+Time: Monday, 2019-04-15 10:37:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 10:37:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:37:17 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:37:18 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 02:37:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:37:18 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 02:37:18 pm
+Insert data to table "customer_login" successfully.
+
+Time: Tuesday, 2019-04-16 12:58:33 am
+Connect to DB "travelexperts" successfully.
+
+Time: Tuesday, 2019-04-16 12:58:33 am
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 04:58:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 04:58:33 pm
+Insert data to table "customers" successfully.
+
+Time: Monday, 2019-04-15 04:58:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 04:58:33 pm
+Connect to DB "travelexperts" successfully.
+
+Time: Monday, 2019-04-15 04:58:33 pm
+Insert data to table "customer_login" successfully.
+

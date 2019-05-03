@@ -1,0 +1,50 @@
+#maindiv {
+    width:1200px; 
+    margin:0 auto;
+    padding-left:350px;
+}
+#tbheading {
+    text-align:left; 
+    font-weight:bold; 
+    color:blue; 
+    font-size:25px;
+}
+/*
+table, th, td {
+    border:1px solid black;
+} 
+*/
+
+td {
+    height:22px; 
+    box-sizing:border-box;
+    padding:0;
+}
+td.lab {
+    width:150px;
+}
+td.input {
+    width:220px;
+}
+label {
+    font-size:16px; 
+    padding:5px;
+}
+.text {
+    width:200px; 
+    height:25px; 
+    font-size:16px;
+}
+.mg {
+    vertical-align: top;
+}
+.msg {
+    height:26px;
+    padding:5px; 
+    font-size:14px;
+}
+.butn {
+    font-size:18px;
+    background-color: #DCDCDC; 
+    color: black;
+}

@@ -1,0 +1,35 @@
+/* Author: Jonathan Arca */
+body {
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    background-color: #e3f2fd;
+}
+
+#logo{
+    width:50PX;
+    height:55PX;
+    float:left;
+    margin-top:-20px;
+}
+
+#nav1{
+    position:absolute;
+    top:10px;
+    right:10px;
+}
+
+#footer{
+    font-size:12px;
+    color:blue;
+    margin-top:700px;
+    margin-left:20px;
+}
+
+#logoutbtn:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
