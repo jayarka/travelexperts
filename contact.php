@@ -123,8 +123,8 @@ around the agency location the user clicks on. -->
 
     <?php
     //  Connect to the travelexperts database, then retrieve agencies data and display everything.
-    $dbh = mysqli_connect("localhost","root","") or die("cannot connect");
-    mysqli_select_db($dbh, "travelexperts");
+    $dbh = mysqli_connect("remotemysql.com","zo6pxhXKOe","ONL4QhPYCa") or die("cannot connect");
+    mysqli_select_db($dbh, "zo6pxhXKOe");
 
     $sql = 'select * from agencies';
     $result = mysqli_query($dbh, $sql);
