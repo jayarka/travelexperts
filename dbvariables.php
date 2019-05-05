@@ -5,7 +5,7 @@
 //----data for logging in database-------
 //=======================================
 
-   $host = "remotemysql.com";
+   $host = "remotemysql.com:3306";
    $user = "zo6pxhXKOe";
    $password = "ONL4QhPYCa";
    $dbName = "zo6pxhXKOe";
