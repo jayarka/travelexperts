@@ -5,10 +5,10 @@
 //----data for logging in database-------
 //=======================================
 
-   $host = "localhost";
-   $user = "root";
-   $password = "";
-   $dbName = "travelexperts";
+   $host = "remotemysql.com";
+   $user = "zo6pxhXKOe";
+   $password = "ONL4QhPYCa";
+   $dbName = "zo6pxhXKOe";
 
    /*
       @Jonathan Arca
